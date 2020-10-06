@@ -1,0 +1,20 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-image: url(./images/img1.jpg);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: 80% -80%;
+}
+
+.headder {
+    padding-top: 8%;
+    padding-bottom: 15%;
+}
+
+
